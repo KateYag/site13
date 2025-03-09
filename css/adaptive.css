@@ -1,0 +1,518 @@
+@media (max-width: 1024px) {
+    .container {
+        max-width: 800px;
+
+    }
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 600px;
+    }
+
+    .main-info {
+        font-size: 40px;
+    }
+    .main-info .date {
+        margin-bottom: 20px;
+    }
+    .dear {
+        font-size: 62px;
+    }
+    .no-fonts {
+        text-align: center;
+        font-size: 38px;
+    }
+    .time-box span {
+        font-size: 40px;
+    }
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 60px;
+    }
+    .dear, .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        margin-bottom: 20px;
+    }
+    .main {
+        padding: 50px 0 50px 0;
+    }
+
+    .location, .program, .dresscode, .wishes, .presence {
+        padding: 50px 0 50px 0
+    }
+    .location-info {
+        font-size: 30px;
+    }
+    .location-address a {
+        font-size: 30px;
+    }
+
+    .event {
+        font-size: 30px;
+    }
+    .dresscode-info {
+        font-size: 30px;
+    }
+    .dresscode-info-block {
+        width: 80px;
+        height: 60px;
+    }
+
+    .wishes-text {
+        font-size: 30px;
+    }
+    .wishes {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .organizer {
+        padding: 60px 0 63px 0;
+    }
+    .organizer-text, .organizer-name {
+        font-size: 30px;
+    }
+    .organizer a {
+        font-size: 26px;
+    }
+    .presence-text {
+        font-size: 30px;
+    }
+    .des {
+        font-size: 16px;
+    }
+    .timout-title {
+        font-size: 45px;
+    }
+
+
+    .timout {
+        padding: 20px 0;
+    }
+
+
+
+}
+
+@media (max-width: 625px) {
+    .container {
+        max-width: 560px;
+    }
+    .invite {
+        padding: 0;
+    }
+
+    .name-people {
+        font-size: 133px;
+    }
+
+
+
+    .main-info {
+        font-size: 30px;
+    }
+    .main-info .text-right .text-right-two {
+         font-size: 19px;
+         margin-top: -7px;
+     }
+    .no-fonts {
+        font-size: 30px;
+    }
+    .save {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .dresscode-info {
+        font-size: 30px;
+    }
+    .dresscode-info-block {
+        height: 45px;
+    }
+    .wishes-text {
+        font-size: 30px;
+    }
+    .main .text, .organizer-text {
+        padding-bottom: 10px;
+    }
+    .presence-text {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .location .banquet, .presence .presence-text {
+        padding-bottom: 20px;
+    }
+    .no-fonts {
+        margin: 10px 0;
+    }
+    .wed {
+        font-size: 40px;
+    }
+}
+
+
+@media (max-width: 575px) {
+    .container {
+        max-width: 480px;
+    }
+    .location-info {
+        font-size: 29px;
+    }
+
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 50px;
+    }
+
+    .presence-text {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .image-three .polaroid-three {
+        width: 530px;
+    }
+    .dear {
+        font-size: 46px;
+    }
+    .no-fonts, .save {
+        font-size: 28px;
+
+    }
+    .timout-title {
+        font-size: 40px;
+    }
+
+
+
+}
+@media (max-width: 534px) {
+
+    .dresscode-info-block {
+        width: 60px;
+        height: 50px;
+    }
+    .container {
+        max-width: 450px;
+    }
+    .main-info {
+        font-size: 30px;
+    }
+    .wed {
+        font-size: 57px;
+    }
+
+    .location-info {
+        font-size: 24px;
+    }
+    .first {
+        overflow: hidden;
+    }
+    .image-three .polaroid-three {
+        position: relative;
+        width: 450px;
+    }
+    .foto-three {
+        height: 225px;
+        top: -54px;
+    }
+    .foto-three .img-three {
+        height: 762px;
+        clip-path: inset(225px 10px 160px 10px);
+    }
+    .plus {
+        right: 50px;
+    }
+    .wishes-text {
+        font-size: 24px;
+    }
+    .no-fonts, .save, .dresscode-info, .main .text {
+        font-size: 24px;
+    }
+    .location-address a {
+        font-size: 24px;
+    }
+    .first {
+        flex-direction: column;
+        gap: 0;
+    }
+    .first svg {
+        width: 40px;
+        height: 40px;
+    }
+    .first .time {
+        font-weight: bold;
+        order: 2;
+    }
+    .event {
+        font-size: 24px;
+    }
+    .dresscode-info-block {
+        width: 60px;
+        height: 40px;
+    }
+    .wedding-form {
+        font-size: 20px;
+    }
+
+
+
+
+
+}
+
+@media (max-width: 470px) {
+    .container {
+        max-width: 400px;
+    }
+    .location-info {
+        font-size: 20px;
+    }
+    .location-address a {
+        font-size: 20px;
+    }
+
+
+    .wishes-text {
+        font-size: 20px;
+    }
+    .no-fonts, .save, .dresscode-info, .main .text {
+        font-size: 20px;
+    }
+    .time-box span {
+        font-size: 32px;
+    }
+    .time-box p {
+        font-size: 18px;
+    }
+    .dresscode-info-blocks {
+        gap: 6px
+    }
+    .image-three .polaroid-three {
+        width: 400px;
+    }
+    .foto-three .img-three {
+        height: 762px;
+        clip-path: inset(225px 30px 160px 30px);
+    }
+
+
+
+
+
+
+}
+@media (max-width: 447px) {
+
+    .container {
+        max-width: 390px;
+    }
+
+
+
+
+}
+@media (max-width: 437px) {
+
+
+    .image-two {
+        left: 130px;
+    }
+    .image-one {
+        left: 66px;
+    }
+
+
+
+}
+@media (max-width: 430px) {
+
+
+    .container {
+        width: 350px;
+    }
+
+    .dear {
+        font-size: 43px;
+    }
+    .image-three .polaroid-three {
+
+    }
+    .foto-three .img-three {
+
+    }
+    .location, .program, .dresscode, .wishes, .presence {
+        padding: 30px 0 30px 0;
+    }
+    .main {
+        padding: 30px 0;
+    }
+
+
+
+}
+
+@media (max-width: 427px) {
+
+
+    .image-two {
+        left: 130px;
+    }
+    .image-one {
+        left: 56px;
+    }
+
+
+
+}
+@media (max-width: 401px) {
+
+
+    .image-two {
+        left: 120px;
+    }
+    .image-one {
+        left: 46px;
+    }
+    .image-three .polaroid-three {
+        position: relative;
+        width: 350px;
+        height: 500px;
+    }
+    .foto-three .img-three {
+        height: 700px;
+    }
+
+
+}
+@media (max-width: 389px) {
+    .container {
+        width: 300px;
+    }
+
+    .dear {
+        font-size: 36px;
+    }
+
+    .location-address a {
+        font-size: 20px;
+    }
+
+
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 46px;
+    }
+
+    .timout-title {
+        font-size: 32px;
+    }
+
+
+    .dresscode-info-blocks {
+        gap: 6px;
+    }
+    .dresscode-info-block {
+        width: 50px;
+        height: 30px;
+    }
+
+
+}
+@media (max-width: 387px) {
+
+
+    .image-two {
+        left: 110px;
+    }
+    .image-one {
+        left: 36px;
+    }
+
+
+
+}
+@media (max-width: 375px) {
+
+
+    .wishes-text {
+        font-size: 20px;
+    }
+    .location .banquet, .presence .presence-text {
+        padding-bottom: 20px;
+    }
+    .no-fonts, .save, .dresscode-info {
+        font-size: 20px;
+    }
+    .location-info {
+        font-size: 20px;
+    }
+    .location-address a {
+        font-size: 20px;
+    }
+    .event {
+        font-size: 20px;
+    }
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 44px;
+    }
+
+
+
+}
+@media (max-width: 361px) {
+
+
+    .image-two {
+        left: 100px;
+    }
+    .image-one {
+        left: 26px;
+    }
+.main {
+    overflow: hidden;
+}
+    .image-three .polaroid-three {
+        position: relative;
+        width: 300px;
+        height: 400px;
+    }
+    .foto-three .img-three {
+        height: 640px;
+    }
+    .foto-three .img-three {
+        clip-path: inset(201px 35px 160px 35px);
+    }
+
+
+}
+@media (max-width: 330px) {
+    .container {
+        width: 250px;
+    }
+
+    .letter-text {
+        font-size: 26px;
+        color: black;
+        text-align: center;
+    }
+
+    .name-people {
+        font-size: 85px;
+    }
+
+    .dear {
+        font-size: 30px;
+    }
+
+    .location-info {
+        font-size: 15px;
+    }
+
+    .timout-title {
+        font-size: 26px;
+    }
+
+    .presence-text {
+        font-size: 13px;
+    }
+}
